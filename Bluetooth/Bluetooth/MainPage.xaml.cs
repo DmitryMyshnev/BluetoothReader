@@ -20,6 +20,7 @@ namespace Bluetooth
         {
             IDeviceControl deviceControl = DependencyService.Get<IDeviceControl>();
             deviceControl.BluetoothManager();
+            
           
         }
     }

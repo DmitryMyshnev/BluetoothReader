@@ -7,5 +7,6 @@ namespace Bluetooth
      public interface IDeviceControl
     {
         void BluetoothManager();
+       
     }
 }

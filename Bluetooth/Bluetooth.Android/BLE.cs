@@ -27,5 +27,6 @@ namespace Bluetooth.Droid
                 // throw new Exception("Bluetooth adapter is not enabled.");
                 adapter.Enable();
         }
+      
     }
 }
